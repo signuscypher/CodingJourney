@@ -2,4 +2,8 @@ Binary is what computers use to store data which is 0 and 1
 bit and byte, a byte consist of 8 bit which can be use to translate 256 character for us to communicate with the computer
 To show colors on screens we use rgb
 
-Try modify git
+Important note *make problems smaller and smaller until nothing left to be solve*
+
+Do a better design code.
+
+Computer process your code(instructions) very fast.
